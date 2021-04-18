@@ -7,8 +7,13 @@ You can use it with CMD, if it is a system process, you need administrator privi
 
 
 Like this, run it by loader name, PID and dll path
+
 ![image](https://user-images.githubusercontent.com/82760569/115146153-dfc21600-a087-11eb-9cad-db106c6d340e.png)
+
 For example
+
 ![image](https://user-images.githubusercontent.com/82760569/115146306-827a9480-a088-11eb-84cc-921321f36caf.png)
+
 ![image](https://user-images.githubusercontent.com/82760569/115146315-958d6480-a088-11eb-82a5-1fdd1c112027.png)
+
 Remember that the dll path is an absolute path. If the loading fails, you can run it several times, or check whether the cmd is an administrator, it should be no problem!
